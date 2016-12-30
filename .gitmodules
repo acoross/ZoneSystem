@@ -1,0 +1,3 @@
+[submodule "extern/Synchronizer"]
+	path = extern/Synchronizer
+	url = http://github.com/acoross/Synchronizer
